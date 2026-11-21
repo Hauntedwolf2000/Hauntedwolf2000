@@ -1,36 +1,41 @@
-![logo](https://github.com/Hauntedwolf2000/Hauntedwolf2000/blob/main/Bannerimg.jpg)
-<h1 align="center">Hi 👋, I'm Dinesh Kumar S M</h1>
-<h3 align="center">A passionate frontend developer from India ,I'm a creative problem solver, energized by learning new skills and highly adaptable. I'm Committed, transparent, andforwardthinking, and organized, all to achieve my career goals with passion.</h3>
-
-<img align="right" width="300px" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="coding gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hauntedwolf2000&label=Profile%20views&color=0e75b6&style=flat" alt="hauntedwolf2000" /> </p>
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 Done A Project On [RAILWAY MANAGMENT](https://frontend-jade-delta-45.vercel.app/)
-
-- 🤝Collabrateed With Fury Designs For [Indic Electronnics](https://indicelectronics.com/)
-
-- 👨‍💻 All of my projects are available at [https://dineshkumarsm.netlify.app/](https://dineshkumarsm.netlify.app/)
-
-- 💬 Ask me about **react,html,js,mongodb,sql,php...**
-
-- 📫 How to reach me **dineshksm22@gmail.com**
-
-- 📄 Know about my experiences [https://dineshkumarsm.netlify.app/projects](https://dineshkumarsm.netlify.app/projects)
-
-- Fun Fact **I am A Funny COder😊😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="./header.svg" alt="Dinesh Kumar S M, web developer building interactive learning experiences" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://dineshkumarsm.netlify.app/">Portfolio</a> ·
+  <a href="https://github.com/Hauntedwolf2000?tab=repositories">Repositories</a>
+</p>
 
+## About
 
+Web developer in Bangalore, working at the point where front-end engineering meets education. By day I build interactive e-learning projects and the automation around them. On my own time I make small browser games that teach hard topics, and I'm finishing an MSc at St Joseph's University.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hauntedwolf2000&show_icons=true&locale=en" alt="hauntedwolf2000" /></p>
+I like projects that are easy to open, easy to understand and a little fun to use.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hauntedwolf2000&" alt="hauntedwolf2000" /></p>
+## Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [AI Quest](https://github.com/Hauntedwolf2000/ai-quest) | A browser game that teaches AI from zero: tokens, context windows, prompting, RAG and agents, through simulations and boss fights. | HTML, JS |
+| [Data Science Warship Defender](https://github.com/Hauntedwolf2000/Datascience_Space_GameZ) | An arcade game where correct answers earn ammo. 30 questions across three levels, with unlockable ships. [Play it](https://datashoot.netlify.app/) | TypeScript |
+| [L1LC01 Weather Station](https://github.com/Hauntedwolf2000/l1lc01-weather-station-versions) | A story-mode digital project for learners, with three missions and two versions behind one chooser page. | JavaScript |
+| [D-Forge](https://github.com/Hauntedwolf2000/Scorm_Package_Automation) | A PowerShell GUI that prepares, validates and packages Storyline exports as SCORM, with pre-zip compliance checks. | PowerShell |
+| [Illustrator to PowerPoint](https://github.com/Hauntedwolf2000/Adobe-Illustrator-PowerPoint-Exporter) | One script that turns every artboard into an editable PowerPoint slide, with a settings UI and live progress. | ExtendScript |
+| [Portfolio 2026](https://github.com/Hauntedwolf2000/Dinesh_Portofolio_2026) | Next.js 14 site with a small CMS and an analytics dashboard. | Next.js, Tailwind |
+| [Brain Tumor Classification](https://github.com/Hauntedwolf2000/Brain_Tumor_Classification) | Transfer learning with EfficientNet to classify tumours from MRI scans. | Python, TensorFlow |
+
+## Toolbox
+
+**Build:** JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS
+**Data:** Python, Pandas, scikit-learn, TensorFlow
+**E-learning:** Articulate Storyline, SCORM, PowerShell automation
+**Design:** Figma, Illustrator, Photoshop
+
+## Now
+
+- Building more interactive learning projects
+- Going deeper on applied AI and data science
+- Open to collaborations on education and tooling projects
+
+<!-- Contact line goes here once you pick which email or LinkedIn to show -->
