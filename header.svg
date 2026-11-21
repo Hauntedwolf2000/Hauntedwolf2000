@@ -1,26 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Dinesh Kumar S M — Web developer building interactive learning experiences">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Dinesh Kumar S M, web developer building interactive learning experiences, browser games and automation tools">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0" stop-color="#0a0d1a"/>
       <stop offset="1" stop-color="#1a1440"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7dd3fc"/>
-      <stop offset="1" stop-color="#c4b5fd"/>
+      <stop offset="0.55" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
-      <stop offset="0" stop-color="#6366f1" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
-    </pattern>
+    <radialGradient id="o1"><stop offset="0" stop-color="#6366f1" stop-opacity=".55"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2"><stop offset="0" stop-color="#0ea5e9" stop-opacity=".4"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern>
+    <clipPath id="c"><rect width="1200" height="320" rx="22"/></clipPath>
   </defs>
-  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
-  <rect width="1200" height="280" rx="20" fill="url(#glow)"/>
-  <text x="64" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" letter-spacing="4" fill="#94a3b8">BANGALORE · WEB DEVELOPER</text>
-  <text x="64" y="176" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#f8fafc">Dinesh Kumar S M</text>
-  <rect x="64" y="196" width="96" height="4" rx="2" fill="url(#accent)"/>
-  <text x="64" y="236" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#cbd5e1">I build interactive learning experiences and the tools behind them.</text>
+  <style>
+    .f{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
+    .o1{animation:a 14s ease-in-out infinite alternate}
+    .o2{animation:b 16s ease-in-out infinite alternate}
+    @keyframes a{to{transform:translate(-120px,60px)}}
+    @keyframes b{to{transform:translate(140px,-50px)}}
+    .r{opacity:0;animation:cyc 12s infinite}
+    .r2{animation-delay:3s}.r3{animation-delay:6s}.r4{animation-delay:9s}
+    @keyframes cyc{0%{opacity:0;transform:translateY(10px)}4%,22%{opacity:1;transform:none}27%,100%{opacity:0;transform:translateY(-10px)}}
+    .dot{animation:p 2s infinite}
+    @keyframes p{50%{opacity:.35}}
+    .bar{animation:w 3s ease-out both}
+    @keyframes w{from{width:0}to{width:110px}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="o1" cx="1000" cy="40" r="300" fill="url(#o1)"/>
+    <circle class="o2" cx="150" cy="320" r="260" fill="url(#o2)"/>
+  </g>
+  <circle class="dot" cx="70" cy="76" r="5" fill="#34d399"/>
+  <text class="f" x="86" y="82" font-size="18" letter-spacing="3" fill="#94a3b8">BANGALORE · WEB DEVELOPER · OPEN TO COLLABORATIONS</text>
+  <text class="f" x="64" y="168" font-size="70" font-weight="700" fill="#f8fafc">Hi, I'm <tspan fill="url(#g)">Dinesh</tspan></text>
+  <rect class="bar" x="64" y="188" height="4" rx="2" fill="url(#g)" width="110"/>
+  <text class="f" x="64" y="250" font-size="26" fill="#94a3b8">I build
+    <tspan class="r r1" x="150" fill="#e8ebf5">interactive learning experiences.</tspan>
+    <tspan class="r r2" x="150" fill="#e8ebf5">browser games that teach.</tspan>
+    <tspan class="r r3" x="150" fill="#e8ebf5">automation tools.</tspan>
+    <tspan class="r r4" x="150" fill="#e8ebf5">clean, fast websites.</tspan>
+  </text>
 </svg>

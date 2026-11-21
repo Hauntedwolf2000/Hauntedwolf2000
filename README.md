@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://hauntedwolf2000.github.io/">Portfolio</a> ·
-  <a href="https://github.com/Hauntedwolf2000?tab=repositories">Repositories</a>
+  <a href="https://hauntedwolf2000.github.io/"><img src="https://img.shields.io/badge/Portfolio-hauntedwolf2000.github.io-7c6cf0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://datashoot.netlify.app/"><img src="https://img.shields.io/badge/Play-Warship_Defender-0ea5e9?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Warship Defender"></a>
 </p>
 
 ## About
@@ -17,15 +17,33 @@ I like projects that are easy to open, easy to understand and a little fun to us
 
 | Project | What it is | Stack |
 |---|---|---|
-| [AI Quest](https://github.com/Hauntedwolf2000/ai-quest) | A browser game that teaches AI from zero: tokens, context windows, prompting, RAG and agents, through simulations and boss fights. | HTML, JS |
-| [Data Science Warship Defender](https://github.com/Hauntedwolf2000/Datascience_Space_GameZ) | An arcade game where correct answers earn ammo. 30 questions across three levels, with unlockable ships. [Play it](https://datashoot.netlify.app/) | TypeScript |
-| [L1LC01 Weather Station](https://github.com/Hauntedwolf2000/l1lc01-weather-station-versions) | A story-mode digital project for learners, with three missions and two versions behind one chooser page. | JavaScript |
-| [D-Forge](https://github.com/Hauntedwolf2000/Scorm_Package_Automation) | A PowerShell GUI that prepares, validates and packages Storyline exports as SCORM, with pre-zip compliance checks. | PowerShell |
-| [Illustrator to PowerPoint](https://github.com/Hauntedwolf2000/Adobe-Illustrator-PowerPoint-Exporter) | One script that turns every artboard into an editable PowerPoint slide, with a settings UI and live progress. | ExtendScript |
-| [Portfolio 2026](https://github.com/Hauntedwolf2000/Dinesh_Portofolio_2026) | Next.js 14 site with a small CMS and an analytics dashboard. | Next.js, Tailwind |
-| [Brain Tumor Classification](https://github.com/Hauntedwolf2000/Brain_Tumor_Classification) | Transfer learning with EfficientNet to classify tumours from MRI scans. | Python, TensorFlow |
+| 🤖 [AI Quest](https://github.com/Hauntedwolf2000/ai-quest) | A browser game that teaches AI from zero: tokens, context windows, prompting, RAG and agents, through simulations and boss fights. | HTML, JS |
+| 🚀 [Data Science Warship Defender](https://github.com/Hauntedwolf2000/Datascience_Space_GameZ) | An arcade game where correct answers earn ammo. 30 questions across three levels, with unlockable ships. [Play it](https://datashoot.netlify.app/) | TypeScript |
+| 🌦️ [L1LC01 Weather Station](https://github.com/Hauntedwolf2000/l1lc01-weather-station-versions) | A story-mode digital project for learners, with three missions and two versions behind one chooser page. | JavaScript |
+| 📦 [D-Forge](https://github.com/Hauntedwolf2000/Scorm_Package_Automation) | A PowerShell GUI that prepares, validates and packages Storyline exports as SCORM, with pre-zip compliance checks. | PowerShell |
+| 🎨 [Illustrator to PowerPoint](https://github.com/Hauntedwolf2000/Adobe-Illustrator-PowerPoint-Exporter) | One script that turns every artboard into an editable PowerPoint slide, with a settings UI and live progress. | ExtendScript |
+| 🌐 [Portfolio 2026](https://github.com/Hauntedwolf2000/Dinesh_Portofolio_2026) | Next.js 14 site with a small CMS and an analytics dashboard. | Next.js, Tailwind |
+| 🧠 [Brain Tumor Classification](https://github.com/Hauntedwolf2000/Brain_Tumor_Classification) | Transfer learning with EfficientNet to classify tumours from MRI scans. | Python, TensorFlow |
 
 ## Toolbox
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" title="React" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" alt="Figma" title="Figma" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/illustrator/illustrator-plain.svg" alt="Illustrator" title="Illustrator" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" height="40">
+</p>
 
 **Build:** JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS
 **Data:** Python, Pandas, scikit-learn, TensorFlow
