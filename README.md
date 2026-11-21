@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dineshkumarsm.netlify.app/">Portfolio</a> ·
+  <a href="https://hauntedwolf2000.github.io/">Portfolio</a> ·
   <a href="https://github.com/Hauntedwolf2000?tab=repositories">Repositories</a>
 </p>
 
